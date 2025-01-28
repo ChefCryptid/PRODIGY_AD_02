@@ -1,0 +1,24 @@
+name: todo_list_practice_project
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_slidable: ^4.0.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+flutter:
+  uses-material-design: true
